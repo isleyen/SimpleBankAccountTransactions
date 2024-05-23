@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ahmet\source\repos\bankAccount\main.cpp(6,6): warning C4326: 'main' öğesinin dönüş türü 'int' olmalıdır, 'void' değil
+  bankAccount.vcxproj -> C:\Users\ahmet\source\repos\bankAccount\x64\Debug\bankAccount.exe
